@@ -31,8 +31,8 @@ Para compilar e executar o programa em um sistema Linux, siga os passos abaixo:
 
 1. **Clone este repositório** (se ainda não o fez):
     ```bash
-    git clone https://github.com/JorgePaess/Projetos-de-Sistemas-Operacionais/tree/main/copy_file
-    cd  Projetos-de-Sistemas-Operacionais/copy_file/
+    git clone https://github.com/JorgePaess/Projetos-de-Sistemas-Operacionais.git
+    cd Projetos-de-Sistemas-Operacionais/copy_file    
     ```
 
 2. **Compile o programa usando o `gcc`:**
